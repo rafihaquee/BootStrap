@@ -1,0 +1,3 @@
+banner gradient - 190b23
+font - Montserrat
+hover - 753d9d
